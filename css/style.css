@@ -194,6 +194,9 @@ header a:hover {
 	border: 0;
 }
 
+#facebook {
+	float: right
+}
 footer {
 	text-align: center;
 	margin: 2em 0 1em 0;
